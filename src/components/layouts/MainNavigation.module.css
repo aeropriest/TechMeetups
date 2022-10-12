@@ -39,9 +39,11 @@
   }
   
   .badge {
+    width: 50px;
+    aspect-ratio: 1;
     background-color: #cc2062;
     color: white;
-    border-radius: 12px;
+    border-radius: 50px;
     padding: 0 1rem;
     margin-left: 0.5rem;
   }
